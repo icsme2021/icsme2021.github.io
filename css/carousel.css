@@ -145,3 +145,24 @@ th, td {
   padding-left: 15px;
   padding-right: 15px;
 }
+
+.date {
+  width: 10em;
+}
+
+.time {
+  width: 8em;
+}
+
+.day {
+  width: 1.6em;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin-right: 0.2em;
+  float: left;
+  text-align: right; 
+}
+
+.shortdate {
+  font-size: 0.75em; 
+}
