@@ -166,3 +166,12 @@ th, td {
 .shortdate {
   font-size: 0.75em; 
 }
+
+.anchor::before {
+  display: block; 
+  content: " "; 
+  margin-top: -77px; 
+  height: 77px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
